@@ -2,8 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
-        <img src="../../../assets/metin2-logo.png"/>
-        <h5 [ngStyle]="{'textShadow': '0 0 2px red'}">Resgate sua premiação!</h5>
+        ![image](https://user-images.githubusercontent.com/62334910/165384881-44c565d9-f242-45ab-ae13-44c4f9336bfa.png)
+
 
 
 
